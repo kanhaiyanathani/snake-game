@@ -1,3 +1,4 @@
 # snake-game
-```<iframe width="923" height="506" src="https://www.youtube.com/embed/mesmwJ6Af0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>```
-https://www.youtube.com/watch?v=mesmwJ6Af0s
+Followed this tutorial: https://www.computervision.zone/courses/snake-game/
+https://user-images.githubusercontent.com/17162465/157217993-4798c3e6-9514-451b-8da1-10592f679de9.mp4
+
